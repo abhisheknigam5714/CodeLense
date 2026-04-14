@@ -1,4 +1,4 @@
-# DevPlus - Team Task & GitHub Contribution Tracker
+# CodeLens- Team Task & GitHub Contribution Tracker
 
 A comprehensive full-stack application for managing team tasks and tracking GitHub commit activity via webhooks.
 
